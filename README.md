@@ -1,2 +1,2 @@
 # ng15-gant-demo
-explore opensource gantt charts 
+explore opensource Gantt charts 
